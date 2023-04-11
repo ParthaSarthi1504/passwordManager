@@ -1,0 +1,130 @@
+.li-row {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  list-style-type: none;
+  padding-left: 0;
+  background-color: transparent;
+  border: 1px solid #b6c3ca;
+  border-radius: 2px;
+  width: 200px;
+  height: 70px;
+  margin: 5px;
+}
+.username-container {
+  display: flex;
+  align-items: flex-start;
+}
+.bot-container {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  height: 20px;
+}
+.initial-design {
+  font-family: 'Roboto';
+  font-size: 10px;
+  margin: 5px;
+  width: 40px;
+  height: 30px;
+  border-radius: 50%;
+  color: #ffffff;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-color: #10b981;
+  align-self: center;
+}
+.del-btn {
+  display: flex;
+  justify-content: space-between;
+  background-color: transparent;
+  align-items: center;
+  width: 30px;
+  height: 30px;
+  outline: none;
+  border-style: solid;
+  border-width: 0;
+}
+.del-img {
+  width: 15px;
+  color: #1e293b;
+}
+.like-div {
+  display: flex;
+  align-items: center;
+  width: 100px;
+}
+.like-img {
+  width: 15px;
+  margin-right: 6px;
+}
+.name-comment-div {
+  margin-left: 10px;
+  width: 100%;
+  margin-right: 10px;
+  margin-left: 10px;
+  padding: 0;
+}
+.profile-user-comment {
+  font-family: 'Roboto';
+  font-size: 10px;
+  color: #334155;
+  margin-top: 6px;
+}
+.profile-name-div {
+  display: flex;
+  align-items: center;
+  margin-bottom: 2px;
+  height: 20px;
+  margin-top: 10px;
+}
+.time {
+  font-family: 'Roboto';
+  font-size: 10px;
+  color: #94a3b8;
+}
+.hr-rule {
+  border: 1px solid #dee0e3;
+  width: 100%;
+}
+.like-btn {
+  background-color: transparent;
+  outline: none;
+  border-style: solid;
+  border-width: 0;
+  font-family: 'Roboto';
+  font-size: 11px;
+  font-weight: 600;
+  color: #334155;
+}
+.liked-successful {
+  color: #0b69ff;
+}
+.website-name {
+  font-family: 'Roboto';
+  font-size: 10px;
+  font-weight: 400;
+  color: #ffffff;
+  padding: 0;
+  margin: 0;
+}
+.profile-password {
+  font-family: 'Roboto';
+  font-size: 10px;
+  font-weight: 400;
+  color: #ffffff;
+  padding: 1px;
+  margin: 0;
+}
+.starts {
+  height: 10px;
+}
+.profile-username {
+  font-family: 'Roboto';
+  font-size: 10px;
+  font-weight: 400;
+  color: #ffffff;
+  padding: 1px;
+  margin: 0;
+}
